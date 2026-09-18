@@ -1,0 +1,10 @@
+{
+  "name":"aws-form-app","version":"1.0.0","private":true,"type":"module",
+  "scripts":{"build":"vite build","dev":"vite","sandbox":"ampx sandbox"},
+  "dependencies":{
+    "@aws-amplify/backend":"latest","@aws-amplify/backend-cli":"latest",
+    "@aws-amplify/ui-react":"latest","aws-amplify":"latest",
+    "aws-cdk-lib":"latest","constructs":"latest","react":"latest","react-dom":"latest"
+  },
+  "devDependencies":{"@vitejs/plugin-react":"latest","vite":"latest","typescript":"latest"}
+}
